@@ -1,0 +1,17 @@
+{
+  "name": "assignment01",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+     "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "mssql": "^11.0.1"
+  }
+}
