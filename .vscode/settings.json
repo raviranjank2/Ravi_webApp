@@ -1,3 +1,5 @@
 {
-    "liveServer.settings.port": 5501
+    "liveServer.settings.port": 5501,
+    "appService.defaultWebAppToDeploy": "/subscriptions/eb72f265-679f-4456-9925-784e726522ed/resourceGroups/bootcampaugust/providers/Microsoft.Web/sites/RaviRanjanKumarEMPN1075",
+    "appService.deploySubpath": "."
 }
